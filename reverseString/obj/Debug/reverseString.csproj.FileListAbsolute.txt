@@ -1,0 +1,6 @@
+F:\Sharath Practice\reverseString\reverseString\bin\Debug\reverseString.exe.config
+F:\Sharath Practice\reverseString\reverseString\bin\Debug\reverseString.exe
+F:\Sharath Practice\reverseString\reverseString\bin\Debug\reverseString.pdb
+F:\Sharath Practice\reverseString\reverseString\obj\Debug\reverseString.csprojResolveAssemblyReference.cache
+F:\Sharath Practice\reverseString\reverseString\obj\Debug\reverseString.exe
+F:\Sharath Practice\reverseString\reverseString\obj\Debug\reverseString.pdb
